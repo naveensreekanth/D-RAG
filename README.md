@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # 📄 Document Intelligence System (RAG)
+=======
+# 📄 Document - RAG
+>>>>>>> 15eeb1322acc469f156328f7c65607b79095d998
 
 A production-style Retrieval-Augmented Generation (RAG) application for
 querying enterprise PDF documents with grounded, source-cited answers.
