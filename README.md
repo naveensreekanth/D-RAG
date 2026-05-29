@@ -1,4 +1,4 @@
-# 📄 Document Intelligence System (RAG)
+# 📄 Document - RAG
 
 A production-style Retrieval-Augmented Generation (RAG) application for
 querying enterprise PDF documents with grounded, source-cited answers.
